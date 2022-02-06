@@ -7,7 +7,7 @@ Curso Vue Udemy. Link: https://www.udemy.com/course/react-redux-pt/
 - Foram desenvolvidos nesse módulo do curso:
 
 Aplicação Web SPA com React.js
-WEBAPI com Node
+WEB-API com Node
 Integração entre Aplicação e Banco de dados com MongoDB
 
 #Detalhes
