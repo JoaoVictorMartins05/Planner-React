@@ -2,7 +2,7 @@
 
 Curso Vue Udemy. Link: https://www.udemy.com/course/react-redux-pt/
 
-#Sobre
+###Sobre
 
 - Foram desenvolvidos nesse módulo do curso:
 
